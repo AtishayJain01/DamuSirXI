@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  background-color: white !important;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+  background-color: #a70000;
+  color: white;
+  width: 100%;
+  text-align: center;
+}
+
+#top {
+  height: 6em;
+  padding-top: 4em;
+}
+
+#counter {
+  height: 1em;
+  padding-bottom: 1em;
+  font-size: 3em;
+}
+
+#ip {
+  height: 1em;
+  padding-bottom: 1em;
+  font-size: 3em;
+}
